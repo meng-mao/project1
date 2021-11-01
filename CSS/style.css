@@ -1,0 +1,504 @@
+.c-1{
+    background-color:rgb(255, 187, 238);
+}
+.c-2{
+    background-color:rgb(255, 239, 247);
+}
+.c-3{
+    background-color:rgb(255, 125, 205);
+}
+.c-4{
+    background-color:rgb(255, 188, 244);
+}
+.c-5{
+    background-color: orange;
+}
+.c-6{
+    background-color: rgb(0, 255, 191);
+}
+.c-7{
+    background-color: white;
+}
+.c-8{
+    background-color:rgb(255, 0, 157);
+}
+.c-9{
+    background-color: rgb(255, 203, 136);
+}
+.c-10{
+    background-color: rgb(53, 34, 18);
+}
+.cf-1{
+    color: black;
+}
+.cf-2{
+    color: white;
+}
+.cf-3{
+    color: rgb(255, 0, 191);
+}
+.cf-4{
+    color: gold;
+}
+.wd-1{ 
+    width: 100%; 
+} 
+.wd-2{
+    width: 85vh;
+}
+.wd-3{
+    width: 80vh;
+}
+.wd-4{
+    width: 20vh;
+}
+.wd-5{
+    width: 20%;
+}
+.wd-6{
+    width: 15vh;
+}
+.wd-7{
+    width: 50%;
+}
+.wd-8{
+    width: 100vh;
+}
+.wd-9{
+    width: 50vh;
+}
+.wd-10{
+    width: 115.5vh;
+}
+.wd-11{
+    width: 47.5vh;
+}
+.wd-12{
+    width: 28vh;
+}
+.wd-13{
+    width: 60vh;
+}
+.wd-14{
+    width: 40vh;
+}
+.wd-15{
+    width: 210vh;
+}
+.wd-16{
+    width: 5vh;
+}
+.hd-1{
+    height: 90vh;
+}
+.hd-2{
+    height: 80vh;
+}
+.hd-3{
+    height: 0.5vh;
+}
+.hd-4{
+    height: 50vh;
+}
+.hd-5{
+    height: 10vh;
+}
+.hd-6{
+    height: 6vh;
+}
+.hd-7{
+    height: 4vh;
+}
+.hd-8{
+    height: 65vh;
+}
+.hd-9{
+    height: 5vh;
+}
+.hd-10{
+    height: 7vh;
+}
+.hd-11{
+    height: 35vh;
+}
+.hd-12{
+    height: 20vh;
+}
+.hd-13{
+    height: 15vh;
+}
+.hd-14{
+    height: 5vh;
+}
+.hd-8to{
+    height: auto;
+}
+.mid-1{
+    justify-content: center;
+    align-items: center;
+}
+.m-1{
+    margin: 5vh;
+}
+.ml-1{
+    margin-left: 5vh;
+}
+.ml-2{
+    margin-left: 30vh;
+}
+.ml-3{
+    margin-left: 70vh;
+}
+.ml-4{
+    margin-left: 80vh;
+}
+.ml-5{
+    margin-left: 50vh;
+}
+.ml-6{
+    margin-left: 70%;
+}
+.ml-7{
+    margin-left: 40vh;
+}
+.ml-8{
+    margin-left: 50%;
+}
+.ml-9{
+    margin-left: 40%;
+}
+.ml-10{
+    margin-left: 35%;
+}
+.ml-11{
+    margin-left: 65vh;
+}
+.ml-12{
+    margin-left: 10vh;
+}
+.ml-13{
+    margin-left: 15vh;
+}
+.ml-14{
+    margin-left: 23.5vh;
+}
+.ml-15{
+    margin-left: 6vh;
+}
+.ml-16{
+    margin-left: 4vh;
+}
+.ml-17{
+    margin-left: 80%;
+}
+.ml-18{
+    margin-left: -10vh;
+}
+.ml-19{
+    margin-left: -20vh;
+}
+.ml-20{
+    margin-left: -30vh;
+}
+.mr-1{
+    margin-right: 5vh;
+}
+.mr-2{
+    margin-right: 1vh;
+}
+.mr-3{
+    margin-right: 7vh;
+}
+.mt-1{
+    margin-top: 10vh;
+}
+.mt-2{
+    margin-top: 4vh;
+}
+.mt-3{
+    margin-top: 1vh;
+}
+.mt-4{
+    margin-top: 0vh;
+}
+.mt-5{
+    margin-top: 20vh;
+}
+.mt-6{
+    margin-top: 15vh;
+}
+.mt-7{
+    margin-top: 45vh;
+}
+.mt-8{
+    margin-top: 6vh;
+}
+.mt-9{
+    margin-top: 2.5vh;
+}
+.mt-10{
+    margin-top: 7vh;
+}
+.mb-1{
+    margin-bottom:5vh;
+}
+.mb-2{
+    margin-bottom: 2vh;
+}
+.mb-3{
+    margin-bottom: 15vh;
+}
+.mb-4{
+    margin-bottom: 60vh;
+}
+.mb-5{
+    margin-bottom: 0vh;
+}
+.m-to-1{
+    margin: auto;
+}
+.spbt-1{
+    justify-content: space-between;
+}
+.ls-none{
+    list-style: none;
+}
+.d-flex{
+    display: flex;
+}
+.fl-co{
+    flex-direction: column;
+}
+.fl-ro{
+    flex-direction: row;
+}
+.b-1{
+    border: 1px solid;
+}
+.br-1{
+    border-radius: 0.5vh;
+}
+.br-2{
+    border-radius: 1vh;
+}
+.br-3{
+    border-radius: 5vh;
+}
+.br-world{
+    border-radius: 360vh;
+}
+.br-ol2-3{
+    border-radius: 2vh 0 2vh 0;
+}
+.f-serif{
+    font-family: serif;
+}
+.fw-b-1{
+    font-weight: bold;
+}
+.fs-lg-1{
+    font-size: large;
+}
+.fs-lg-2{
+    font-size: small;
+}
+.fs-1{
+    font-size: 5vh;
+}
+.fs-2{
+    font-size: 2vh;
+}
+.fs-3{
+    font-size: 3vh;
+}
+.fs-4{
+    font-size: 10vh;
+}
+.pd-1{
+    padding: 2vh;
+}
+.pd-2{
+    padding: 5vh;
+}
+.pd-3{
+    padding: 1vh;
+}
+.pd-4{
+    padding: 1.5vh;
+}
+.al-i-c{
+    align-items: center;
+}
+.b-no{
+    border: none;
+}
+.tal-c{
+    text-align: center;
+}
+.tal-l{
+    text-align: left;
+}
+.tal-r{
+    text-align: right;
+}
+.tede-n{
+    text-decoration: none;
+}
+.h-org-1:hover{
+    background-color:rgb(255, 0, 157);
+    width: 15vh;
+    height: 6vh;
+    border-radius: 1vh;
+}
+.h-org-2:hover{
+    background-color:rgb(255, 0, 157);
+    width: 35vh;
+    height: 3vh;
+    border-radius: 0.5vh;
+}
+.h-org-3:hover{
+    background-color: rgb(255, 38, 147);
+}
+.h-org-4:hover{
+    background-color: rgb(255, 38, 147);
+    color: white;
+}
+.h-org-5:hover{
+    color: blue;
+}
+.h-org-6:hover{
+    color: gold;
+}
+.h-org-7:hover{
+    color: rgb(255, 0, 157);
+}
+.h-org-8:hover{
+    color: white;
+}
+.h-org-9:hover{
+    background-color: yellow;
+}
+.h-org-10:hover{
+    background-color: greenyellow;
+}
+.h-org-11:hover{
+    background-color: indigo;
+}
+.h-org-12:hover{
+    background-color: tomato;
+}
+.h-org-13:hover{
+    background-color: turquoise;
+}
+.h-org-14:hover{
+    background-color: gray;
+}
+.h-org-15:hover{
+    background-color: hotpink;
+}
+.h-org-16:hover{
+    background-color: khaki;
+}
+.h-org-17:hover{
+    background-color: red;
+}
+.h-org-18:hover{
+    background-color: rgb(148, 118, 19);
+}
+.h-org-19:hover{
+    background-color: rgb(0, 255, 179);
+}
+.h-org-20:hover{
+    background-color: rgb(225, 0, 255);
+}
+.h-org-21:hover{
+    background-color: orange;
+}
+.h-org-22:hover{
+    background-color: rgb(50, 110, 0);
+}
+.h-org-23:hover{
+    background-color: rgb(47, 0, 255);
+}
+.box1{
+    width: 22vh;
+    height: 16vh;
+    background-color: bisque;
+    margin: 5px;
+    border-radius: 1vh;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: 100%;
+}
+.body1{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+    width: 100%;
+    background-image: url(/CSS/Angkor1.jpg);
+    margin: 0;
+    padding: 0;
+}
+.body2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:50%;
+    width: 100%;
+    background-image: url(/CSS/trip1.jpg);
+    margin: 0;
+    padding: 0;
+}
+.body3{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:50%;
+    width: 100%;
+    background-image: url(/CSS/foodbackground1.jpg);
+    margin: 0;
+    padding: 0;
+}
+.bg-blr-1{
+    background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+}
+.bg-blr-2{
+    background: linear-gradient(to top, rgba(0,0,0,0.3)70%,rgba(0,0,0,0.3)70%);
+}
+.bg-blr-3{
+    background: linear-gradient(to top, rgba(0, 238, 255, 0.151)70%,rgba(0, 204, 255, 0.247)70%);
+}
+.bg-blr-4{
+    background: linear-gradient(to top, rgba(0, 238, 255, 0.705)90%,rgba(0, 255, 234, 0.726)90%);
+}
+.speedhover1{
+    transition: 1s ease;
+}
+.speedhover2{
+    transition: 0.6s ease;
+}
+.sameplace{
+    position: fixed;
+}
+.gr-tem-cl-1{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto auto auto;
+    text-align: center;
+    gap: 2px 2px;
+}
+.cir-gr-1{
+    background-color:rgb(255, 77, 160);
+    border: 1px solid #ccc;
+    padding: 1em;
+    color: white;
+    font-size: 3em;
+    border-radius: 360%;
+}
+.firststep{
+    font-weight: bold;
+    margin-left: 10vh;
+    font-size: large;
+    color: blue;
+}

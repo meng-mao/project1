@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caculator</title>
+    <link rel="stylesheet" href="/CSS/style.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: grid;
+            width: 50%;
+            margin: auto;
+            height: 70vh;
+            margin-top: 5%;
+            grid-template-columns: repeat(4, 1fr);
+            grid-template-areas:
+                "nav nav nav nav"
+                " suminus persent slas C"
+                "numseven numeight numnine add"
+                "numfour numfive numsix minus"
+                "numone numtwo numthree sum"
+                "numzero numzero dott equal";
+        }
+        .suminus{
+            grid-area: suminus;
+        }
+        .persent{
+            grid-area: persent;
+        }
+        .slas{
+            grid-area: slas;
+        }
+        .C{
+            grid-area: C;
+        }
+        .numone{
+            grid-area: numone;
+        }
+        .numtwo{
+            grid-area: numtwo;
+        }
+        .numthree{
+            grid-area: numthree;
+        }
+        .numfour{
+            grid-area: numfour;
+        }
+        .numfive{
+            grid-area: numfive;
+        }
+        .numsix{
+            grid-area: numsix;
+        }
+        .numseven{
+            grid-area: numseven;
+        }
+        .numeight{
+            grid-area: numeight;
+        }
+        .numnine{
+            grid-area: numnine;
+        }
+        .dott{
+            grid-area: dott;
+        }
+        .numzero{
+            grid-area: numzero;
+        }
+        nav{
+            grid-area: nav;
+            background-color: black;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2em;
+        }
+        .suminus,.persent,.slas,.C,.numone,.numtwo,.numthree,.numfour,.numfive,
+        .numsix,.numseven,.numeight,.numnine,.numzero,.add,.minus,.equal,.sum,.dott{
+            background-color: rgb(180, 180, 180);
+            border: 2px solid rgb(230, 230, 230);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body class="c-6">
+    <nav class="d-flex c-5 wd-4 hd-7 br-3 fs-2 mt-2 mid-1 h-org-9 speedhover2"><a class="speedhover2 d-flex tede-n cf-2 h-org-5" href="Homepage.html">Go Home</a></nav>
+    <div class="container">
+        <nav>0</nav>
+        <div class="suminus">+/-</div>
+        <div class="persent">%</div>
+        <div class="slas">/</div>
+        <div class="C">C</div>
+        <div class="numone">1</div>
+        <div class="numtwo">2</div>
+        <div class="numthree">3</div>
+        <div class="numfour">4</div>
+        <div class="numfive">5</div>
+        <div class="numsix">6</div>
+        <div class="numseven">7</div>
+        <div class="numeight">8</div>
+        <div class="numnine">9</div>
+        <div class="numzero">0</div>
+        <div class="dott">.</div>
+        <div class="add">*</div>
+        <div class="minus">-</div>
+        <div class="sum">+</div>
+        <div class="equal">=</div>
+    </div>
+</body>
+</html>
